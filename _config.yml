@@ -67,5 +67,5 @@ theme: landscape
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
-deploy:https://github.com/wuhuhuan/wuhuhuan.github.io.git
+deploy:https://wuhuhuan.github.io.git
   type:master
